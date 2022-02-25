@@ -1,20 +1,20 @@
 Assuntos abordados e aprendidos nessa seção
 
 
-Importando Dados com Python
+1. Importando Dados com Python
 
-Explorando os dados: head(), tail(), info(), describe()
+2. Explorando os dados: head(), tail(), info(), describe()
 
-Renomeando Colunas
+3. Renomeando Colunas
 
-Subsetting Data Frames
+4. Subsetting Data Frames
 
-Operações básicas com data frames
+5. Operações básicas com data frames
 
-.at() e .iat()
+6. .at() e .iat()
 
-Filtrando Dados
+7. Filtrando Dados
 
-Introdução ao Seaborn
+8.  Introdução ao Seaborn
 
-Keyword arguments (kws)
+9. Keyword arguments (kws)
